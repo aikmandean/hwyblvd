@@ -1,22 +1,13 @@
 import styles from "./App.module.css"
 import { fn } from "@hwyblvd/st"
-import bghex from "./assets/blob.svg"
-import bgarcs from "./assets/pattern (6).svg"
-import bgplan from "./assets/pattern (7).svg"
-import bgstars from "./assets/blob (2).svg"
+// import bghex from "./assets/blob.svg"
+// import bgarcs from "./assets/pattern (6).svg"
+// import bgplan from "./assets/pattern (7).svg"
+// import bgstars from "./assets/blob (2).svg"
 
 const App = () => {
   return (
     <div class={styles.App}>
-      <style textContent={`
-        :root {
-          scroll-behavior: smooth;
-          --bghex: url('${bghex}');
-          --bgarcs: url('${bgarcs}');
-          --bgplan: url('${bgplan}');
-          --bgstars: url('${bgstars}');
-        }  
-      `} />
       <div class="b-roads">
         <div />
         <div>
