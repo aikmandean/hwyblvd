@@ -1,0 +1,77 @@
+:root {
+  --color-bg: #e2e6ee;
+  --color-fg: #282c34;
+}
+@media screen AND (preferred-color-scheme: dark) {
+  :root {
+    --color-bg: #282c34;
+    --color-fg: #e2e6ee;
+  }
+}
+
+.App {
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+}
+
+.header {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding: 2em;
+}
+
+/* #region .nav */
+.nav {
+  
+  height: 50vh;
+}
+.nav > ul {
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+
+  position: sticky;
+  top: 0;
+}
+/* #endregion */
+/* #region .c_call_1 */
+.c_call_1 {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding: 2em;
+
+  background-color: #494038;
+  color: white;
+}
+.c_call_1 > p {
+  max-width: 640px;
+}
+/* #endregion */
+
+.fnt_ser_1 {
+  font-family: Palatino, serif;
+  text-align: center;
+}
+
+.link {
+  color: #b318f0;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

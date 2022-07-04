@@ -1,0 +1,26 @@
+<svg id="10015.io" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="0" x1="0" y1="0.5" x2="1" y2="0.5">
+        <stop offset="0%" stop-color="#3182ce"/>
+        <stop offset="14.29%" stop-color="#348fc5"/>
+        <stop offset="28.57%" stop-color="#389ac2"/>
+        <stop offset="42.86%" stop-color="#3ca5c1"/>
+        <stop offset="57.14%" stop-color="#41b0c2"/>
+        <stop offset="71.43%" stop-color="#45bbc3"/>
+        <stop offset="100%" stop-color="#4fd1c5"/>
+        </linearGradient>
+        
+        <!-- <pattern id="pattern" x="0" y="0" width="83" height="83" patternUnits="userSpaceOnUse" patternTransform="translate(51, 51) rotate(27) skewX(0)">
+            <svg width="32" height="32" viewBox="0 0 100 100">
+                <g fill="#e9d1ef" opacity="1"><circle cx="50" cy="50" r="50"></circle></g>
+            </svg>
+        </pattern> -->
+        <pattern id="pattern" x="0" y="0" width="83" height="83" patternUnits="userSpaceOnUse" patternTransform="translate(51, 51) rotate(27) skewX(-18)">
+            <svg width="32" height="32" viewBox="0 0 100 100"><g fill="url(#0)" opacity="1">
+                <path d="M36.459 73.3833V92.7083C36.459 94.0583 37.3256 95.2541 38.609 95.6791C38.9298 95.7833 39.259 95.8333 39.584 95.8333C40.559 95.8333 41.5006 95.375 42.1006 94.5583L53.4048 79.175L36.459 73.3833Z"></path><path d="M98.6877 0.57917C97.7294 -0.099997 96.471 -0.191664 95.4294 0.35417L1.67935 49.3125C0.571019 49.8917 -0.083148 51.075 0.00851866 52.3208C0.104352 53.5708 0.933519 54.6375 2.11269 55.0417L28.1752 63.95L83.6794 16.4917L40.7294 68.2375L84.4085 83.1667C84.7335 83.275 85.0752 83.3333 85.4169 83.3333C85.9835 83.3333 86.546 83.1792 87.0419 82.8792C87.8335 82.3958 88.371 81.5833 88.5085 80.6708L99.9669 3.5875C100.138 2.42084 99.646 1.2625 98.6877 0.57917Z"></path></g>
+            </svg>
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="100%" height="100%" fill="rgba(50, 159, 228, 0)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern)"></rect>
+</svg>

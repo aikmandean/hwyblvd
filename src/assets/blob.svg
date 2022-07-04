@@ -1,0 +1,24 @@
+<svg id="10015.io" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<linearGradient id="0" x1="0" y1="0.5" x2="1" y2="0.5">
+		<stop offset="0%" stop-color="#3182ce"/>
+		<stop offset="14.29%" stop-color="#348fc5"/>
+		<stop offset="28.57%" stop-color="#389ac2"/>
+		<stop offset="42.86%" stop-color="#3ca5c1"/>
+		<stop offset="57.14%" stop-color="#41b0c2"/>
+		<stop offset="71.43%" stop-color="#45bbc3"/>
+		<stop offset="100%" stop-color="#4fd1c5"/>
+		</linearGradient>
+		<radialGradient id="1" gradientTransform="translate(-0.5 0) scale(2, 2)">
+		<stop offset="0%" stop-color="#feb2b2"/>
+		<stop offset="25%" stop-color="rgba(252, 184, 219, 0.75)"/>
+		<stop offset="50%" stop-color="rgba(239, 194, 250, 0.5)"/>
+		<stop offset="100%" stop-color="rgba(190, 227, 248, 0)"/>
+		</radialGradient>
+  </defs>
+	<path fill="url(#0)" d="M351.5,273.5Q293,307,260.5,299Q228,291,161,300.5Q94,310,70.5,228.5Q47,147,133.5,150.5Q220,154,284.5,128.5Q349,103,379.5,171.5Q410,240,351.5,273.5Z" />
+	<path fill="url(#1)" d="M351.5,273.5Q293,307,260.5,299Q228,291,161,300.5Q94,310,70.5,228.5Q47,147,133.5,150.5Q220,154,284.5,128.5Q349,103,379.5,171.5Q410,240,351.5,273.5Z" />
+
+	<!-- <path fill="url(#0)" d="M383,281.5Q288,323,241.5,320.5Q195,318,111.5,279Q28,240,102.5,185Q177,130,264,89Q351,48,414.5,144Q478,240,383,281.5Z" />
+	<path fill="url(#1)" d="M383,281.5Q288,323,241.5,320.5Q195,318,111.5,279Q28,240,102.5,185Q177,130,264,89Q351,48,414.5,144Q478,240,383,281.5Z" /> -->
+</svg>

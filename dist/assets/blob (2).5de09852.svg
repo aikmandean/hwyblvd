@@ -1,0 +1,30 @@
+<svg id="10015.io" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+	
+    <linearGradient id="0" x1="0" y1="0.5" x2="1" y2="0.5">
+      <stop offset="0%" stop-color="#3182ce"/>
+      <stop offset="14.29%" stop-color="#348fc5"/>
+      <stop offset="28.57%" stop-color="#389ac2"/>
+      <stop offset="42.86%" stop-color="#3ca5c1"/>
+      <stop offset="57.14%" stop-color="#41b0c2"/>
+      <stop offset="71.43%" stop-color="#45bbc3"/>
+      <stop offset="100%" stop-color="#4fd1c5"/>
+    </linearGradient>
+    <radialGradient id="1" gradientTransform="translate(-0.5 0) scale(2, 2)">
+      <stop offset="0%" stop-color="rgba(190, 227, 248, 0)"/>
+      <stop offset="50%" stop-color="rgba(239, 194, 250, 0.5)"/>
+      <stop offset="75%" stop-color="rgba(252, 184, 219, 0.75)"/>
+      <stop offset="100%" stop-color="#feb2b2"/>
+    </radialGradient>
+
+	<pattern id="pattern" x="0" y="0" width="83" height="83" patternUnits="userSpaceOnUse" patternTransform="translate(51, 51) rotate(27) skewX(0)">
+		<svg width="32" height="32" viewBox="0 0 100 100">
+			<!-- <g fill="#5A96C3" opacity="1"><circle cx="50" cy="50" r="50"></circle></g> -->
+			<!-- <g fill="#5f68c6" opacity="1"><circle cx="50" cy="50" r="50"></circle></g> -->
+			<g fill="url(#0)" opacity="1"><circle cx="50" cy="50" r="50"></circle></g>
+			<g fill="url(#1)" opacity="1"><circle cx="50" cy="50" r="50"></circle></g>
+		</svg>
+	</pattern>
+
+    <rect x="0" y="0" width="100%" height="100%" fill="rgba(50, 159, 228, 0)"></rect>
+    <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern)"></rect>
+</svg>
